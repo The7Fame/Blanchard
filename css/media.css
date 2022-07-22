@@ -111,7 +111,7 @@
 
   .article__place,
   .article__date {
-    align-self: flex-end;
+    align-self: flex-start;
     font-weight: 400;
   }
 
